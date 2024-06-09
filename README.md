@@ -27,8 +27,8 @@ This project is an advanced keylogger application built using Python, designed t
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/keylogger-discord-bot.git
-    cd keylogger-discord-bot
+    git clone https://github.com/your-username/Keylogger-DiscordBot.git
+    cd Keylogger-DiscordBot
     ```
 
 2. Install the required libraries:
